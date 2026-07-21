@@ -1,0 +1,3 @@
+[submodule "scripts/pfm-mefmri"]
+	path = scripts/pfm-mefmri
+	url = https://github.com/cjl2007/pfm-mefmri.git
